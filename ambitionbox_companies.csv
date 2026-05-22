@@ -1,0 +1,501 @@
+Company Name,Industry Type,Primary Office Location,Operating Locations,Job Openings,Total Reviews,Overall Rating,Job Security,Work Life Balance,Work Satisfaction,Promotions
+TCS,IT Services & Consulting,Bangalore,420,499,0,3.5,High,Medium,Low,Low
+Accenture,IT Services & Consulting,Bangalore,236,30900,66400,3.7,Medium,Medium,Low,Low
+Wipro,IT Services & Consulting,Bangalore,363,5600,59600,3.7,High,Medium,Low,Low
+Cognizant,IT Services & Consulting,Hyderabad,217,379,56700,3.7,Medium,Medium,Low,Low
+Capgemini,IT Services & Consulting,Bangalore,178,1900,48400,3.7,High,High,Low,Low
+HDFC Bank,Banking,Mumbai,1743,235,46200,3.8,High,Medium,Medium,Low
+Infosys,IT Services & Consulting,Bangalore,235,1600,44600,3.5,High,Medium,Low,Low
+ICICI Bank,Banking,Mumbai,1398,8,42500,4.0,High,Medium,Medium,Medium
+HCLTech,IT Services & Consulting,Chennai,219,291,41600,3.4,Medium,Medium,Low,Low
+Tech Mahindra,IT Services & Consulting,Hyderabad,326,593,39900,3.4,Medium,Medium,Low,Low
+Genpact,IT Services & Consulting,Hyderabad,167,387,37900,3.7,High,Medium,Medium,Low
+Teleperformance,BPO,Mumbai,244,593,34000,3.9,High,High,Medium,Medium
+Axis Bank,Banking,Mumbai,1462,605,29800,3.7,Medium,Medium,Low,Low
+Concentrix Corporation,BPO,Bangalore,169,117,29600,3.6,High,Medium,Low,Low
+Amazon,Internet,Bangalore,505,1700,28600,4.0,Medium,High,Medium,Low
+Jio,Telecom,Mumbai,1733,67,28300,4.3,High,Medium,Medium,Medium
+iEnergizer,BPO,Noida,47,42,26200,4.7,Medium,High,High,Medium
+Reliance Retail,Retail,Mumbai,1115,77,25200,3.9,High,Medium,Medium,Low
+IBM,IT Services & Consulting,Bangalore,158,2600,24200,3.9,High,High,Medium,Low
+LTIMindtree,IT Services & Consulting,Bangalore,138,452,23700,3.7,Medium,Medium,Medium,Low
+HDB Financial Services,NBFC,Mumbai,1055,188,23300,3.9,High,Medium,Medium,Low
+Larsen & Toubro Limited,Engineering & Construction,Chennai,728,869,21400,3.9,High,Low,Medium,Low
+Deloitte,Management Consulting,Hyderabad,176,1700,20800,3.7,High,Low,Low,Low
+Kotak Mahindra Bank,Banking,Mumbai,666,85,20200,3.7,Medium,Medium,Low,Low
+Reliance Industries,Oil & Gas,Jamnagar,781,44,18400,4.0,High,High,Medium,Low
+Vodafone Idea,Telecom,Pune,682,30,16600,4.0,Medium,High,Medium,Low
+BYJU'S,EdTech,Bangalore,322,0,16500,3.1,Low,Low,Medium,Medium
+Bharti Airtel,Telecom,Gurgaon,761,474,15700,3.9,Medium,Medium,Medium,Low
+WNS,BPO,Pune,59,80,13800,3.3,Medium,Medium,Medium,Low
+Tata Motors,Automobile,Pune,491,174,13100,4.1,High,High,Medium,Low
+AU Small Finance Bank,Banking,Jaipur,746,44,13000,4.1,High,High,Medium,Medium
+IndusInd Bank,Banking,Mumbai,772,150,12700,3.4,Medium,Medium,Low,Low
+Ernst & Young,Management Consulting,Bangalore,123,1800,12700,3.4,Medium,Low,Low,Low
+IDFC FIRST Bank,Banking,Mumbai,689,37,12600,3.9,Medium,Medium,Medium,Medium
+Flipkart,Internet,Bangalore,546,161,11900,3.9,Medium,Medium,Medium,Low
+DXC Technology,IT Services & Consulting,Bangalore,133,298,11200,3.6,Medium,High,Low,Low
+Bajaj Finserv,Financial Services,Pune,1088,27,11100,3.9,High,Medium,Medium,Medium
+Infosys BPM,BPO,Bangalore,88,54,11100,3.5,High,Medium,Low,Low
+PwC,Management Consulting,Bangalore,126,980,11100,3.3,Medium,Low,Low,Low
+Mahindra & Mahindra,Automobile,Pune,542,2,11000,4.1,High,Medium,Medium,Low
+HDFC Life,Insurance,Mumbai,667,147,10800,3.9,High,Medium,Medium,Medium
+Conneqt Business Solutions,BPO,Hyderabad,257,373,9600,3.6,Medium,Medium,Low,Low
+Mphasis,IT Services & Consulting,Bangalore,61,35,9500,3.3,Medium,Medium,Low,Low
+Bandhan Bank,Banking,Kolkata,952,10,9400,3.7,Medium,Medium,Low,Low
+Yes Bank,Banking,Mumbai,516,154,9100,3.7,Medium,Medium,Low,Low
+Muthoot Fincorp,NBFC,Bangalore,970,69,8900,4.5,Medium,High,Medium,Medium
+Tata Steel,Iron & Steel,Jamshedpur,220,0,8900,4.0,High,High,Medium,Low
+Startek,BPO,Bangalore,103,90,8700,3.1,Medium,Medium,Medium,Low
+Quess,IT Services & Consulting,Bangalore,690,6,8600,3.8,Low,Medium,Medium,Low
+Asian Paints,Chemicals,Mumbai,525,23,8500,3.9,High,Low,Medium,Low
+Paytm,FinTech,Noida,395,786,8500,3.2,Low,Medium,Medium,Low
+UltraTech Cement,Building Material,Mumbai,516,100,8400,4.1,High,Medium,Medium,Medium
+Shriram Finance,NBFC,Chennai,1067,5,8200,4.0,High,High,Medium,Low
+Maruti Suzuki,Automobile,Gurgaon,424,547,8100,4.1,High,Medium,Medium,Medium
+Sutherland Global Services,BPO,Chennai,74,364,8000,3.5,Medium,Medium,Medium,Low
+EXL Service,IT Services & Consulting,Noida,60,318,8000,3.6,High,Medium,Medium,Low
+Bajaj Finance,NBFC,Pune,907,5600,8000,3.9,High,Medium,Medium,Medium
+Samsung,Consumer Electronics & Appliances,Noida,558,53,7900,3.9,Medium,Medium,Medium,Low
+Ericsson,Telecom,Noida,161,143,7900,4.0,High,High,Medium,Low
+Cipla,Pharma,Mumbai,282,72,7800,4.1,Medium,High,Medium,Medium
+Wells Fargo,Financial Services,Bangalore,29,384,7600,3.7,Medium,High,Low,Low
+Dr. Reddy's,Pharma,Hyderabad,206,51,7600,4.0,Medium,Medium,Medium,Low
+HGS,BPO,Bangalore,119,15,7300,3.8,High,Medium,Medium,Low
+ICICI Prudential Life Insurance,Insurance,Mumbai,497,628,7200,4.0,High,Medium,Medium,Medium
+Amazon Development Centre India,Internet,Hyderabad,146,11,7200,3.9,Medium,High,Medium,Low
+Optum Global Solutions,IT Services & Consulting,Hyderabad,61,261,7100,4.0,High,High,Medium,Low
+JPMorgan Chase & Co.,Financial Services,Bangalore,53,596,7100,3.9,High,Medium,Medium,Low
+Delhivery,Logistics,Gurgaon,720,90,7000,3.8,Medium,Medium,Medium,Low
+Sun Pharmaceutical Industries,Pharma,Vadodara,256,338,7000,4.1,High,Medium,Medium,Medium
+Jana Small Finance Bank,Banking,Bangalore,402,0,6900,3.8,Medium,Medium,Medium,Medium
+Hexaware Technologies,IT Services & Consulting,Chennai,68,882,6900,3.5,Medium,Medium,Low,Low
+JSW Steel,Iron & Steel,Ballari,179,112,6900,3.9,High,Medium,Medium,Low
+L&T Construction,Engineering & Construction,Chennai,412,0,6800,4.0,High,Low,Medium,Low
+Lupin,Pharma,Pune,196,44,6800,4.1,Medium,High,Medium,Low
+Zydus Lifesciences,Pharma,Ahmedabad,172,28,6700,4.0,Medium,Medium,Medium,Medium
+Hindustan Unilever,FMCG,Mumbai,509,30,6700,4.2,High,Medium,Medium,Low
+Equitas Small Finance Bank,Banking,Chennai,440,21,6600,4.3,High,High,Medium,Medium
+KPMG India,Management Consulting,Bangalore,105,1300,6500,3.4,Medium,Low,Low,Low
+ITC,FMCG,Bangalore,360,73,6500,3.9,High,Medium,Medium,Low
+Ekart Logistics,Other,Bangalore,708,0,6400,3.9,Medium,Medium,Medium,Low
+Axis Max Life Insurance,Insurance,New Delhi,474,276,6400,4.0,Medium,High,Medium,Medium
+Ujjivan Small Finance Bank,Banking,Bangalore,507,129,6300,4.0,High,High,Medium,Medium
+FIS,FinTech,Pune,59,118,6100,3.8,Medium,High,Medium,Low
+Tata Projects,Engineering & Construction,Mumbai,269,25,6100,4.2,High,Medium,Medium,Medium
+Megha Engineering & Infrastructures,Engineering & Construction,Hyderabad,387,10,6100,3.9,Medium,Medium,Medium,Low
+HCL Group,IT Services & Consulting,Chennai,96,0,5900,3.5,High,Medium,Low,Low
+L&T Technology Services,IT Services & Consulting,Bangalore,94,10,5900,3.1,Medium,Medium,Low,Low
+Indian Army,Defence & Aerospace,New Delhi,354,0,5900,4.7,High,High,Medium,Medium
+Oracle,Software Product,Bangalore,56,1200,5900,3.6,Medium,High,Low,Low
+IIFL Finance,NBFC,Mumbai,768,58,5800,4.0,High,High,Medium,Medium
+Coforge,IT Services & Consulting,Noida,103,245,5800,3.2,Medium,Medium,Low,Low
+Bajaj Allianz Life Insurance,Insurance,Pune,580,81,5800,3.9,Medium,Medium,Medium,Low
+JLL,Real Estate,Gurgaon,81,5600,5700,4.1,High,High,Medium,Medium
+Muthoot Finance,NBFC,Bangalore,740,70,5700,3.6,Medium,Low,Low,Low
+eClerx,IT Services & Consulting,Pune,30,1500,5700,3.1,Medium,Medium,Low,Low
+Udaan,Internet,Bangalore,366,9,5600,4.0,Low,High,Medium,Low
+Omega Healthcare,BPO,Chennai,64,194,5600,3.7,Medium,Medium,Medium,Low
+Virtusa Consulting Services,IT Services & Consulting,Hyderabad,52,32,5600,3.7,Low,Medium,Low,Low
+HSBC Group,Financial Services,Bangalore,64,394,5500,3.9,High,High,Medium,Low
+Cholamandalam Investment & Finance,Financial Services,Chennai,784,19,5500,3.8,Medium,Medium,Medium,Medium
+Indiamart Intermesh,Internet,Noida,166,923,5500,3.6,Medium,Low,Low,Low
+DMart,Retail,Mumbai,237,181,5400,3.9,High,Medium,Medium,Low
+Aurobindo Pharma,Pharma,Hyderabad,109,13,5400,4.0,High,High,Medium,Medium
+Siemens,Industrial Automation,Bangalore,149,1000,5300,4.0,High,High,Medium,Low
+Shapoorji Pallonji Group,Engineering & Construction,Mumbai,188,50,5300,4.1,High,High,Medium,Low
+Standard Chartered,Banking,Chennai,68,0,5300,3.6,Medium,Medium,Low,Low
+CGI Group,IT Services & Consulting,Bangalore,44,224,5300,4.0,High,High,Medium,Low
+GlobalLogic,IT Services & Consulting,Hyderabad,56,61,5200,3.5,Medium,Medium,Low,Low
+Firstsource Solutions,BPO,Bangalore,70,150,5200,3.6,Medium,Medium,Medium,Low
+BigBasket,Internet,Bangalore,132,84,5200,3.9,High,Medium,Medium,Low
+Access Healthcare,Healthcare,Chennai,58,464,5200,3.7,High,Medium,Medium,Low
+ICICI Lombard General Insurance Company,Insurance,Mumbai,300,182,5200,3.6,Medium,Medium,Low,Low
+Bosch Global Software Technologies,IT Services & Consulting,Bangalore,44,189,5100,3.8,High,High,Medium,Low
+Apollo Hospitals,Healthcare,Chennai,223,80,5100,4.0,High,High,Medium,Medium
+SMFG India Credit,NBFC,Mumbai,567,120,5100,3.9,Medium,Medium,Medium,Low
+UST,IT Services & Consulting,Bangalore,49,83,5100,3.7,Low,High,Medium,Low
+Mahindra Finance,NBFC,Mumbai,706,545,5100,3.9,Medium,High,Medium,Low
+Citicorp,Financial Services,Pune,68,0,5100,3.7,Medium,Medium,Low,Low
+Ashok Leyland,Automobile,Chennai,238,0,5100,4.1,Medium,High,Medium,Low
+Cyient,IT Services & Consulting,Hyderabad,44,92,5000,3.6,Medium,Medium,Medium,Low
+Manappuram Finance,NBFC,Bangalore,602,16,5000,3.9,Medium,High,Medium,High
+Hero MotoCorp,Automobile,Gurgaon,351,0,5000,4.1,Medium,High,High,Low
+Swiggy,Internet,Bangalore,223,200,4900,3.7,Low,Medium,Low,Low
+PolicyBazaar,Internet,Gurgaon,130,623,4900,3.7,Medium,Low,Low,Medium
+JustDial,Internet,Noida,215,51,4800,3.5,Medium,Medium,Low,Low
+SBI Cards & Payment Services,Financial Services,Gurgaon,421,145,4800,3.7,Medium,Medium,Low,Low
+Kalpataru Projects International,Engineering & Construction,Mumbai,299,0,4800,4.1,High,Medium,Medium,Medium
+BNY,Financial Services,Pune,25,95,4800,3.8,Low,High,Medium,Low
+IQVIA,Clinical Research,Bangalore,62,22,4700,3.8,High,High,Medium,Low
+Eviden,IT Services & Consulting,Pune,37,48,4700,3.6,Medium,High,Low,Low
+vivo,Consumer Electronics & Appliances,Noida,404,7,4700,4.1,Medium,High,Medium,Low
+CBRE,Real Estate,Hyderabad,90,37,4700,4.1,High,High,Medium,Medium
+Atos,IT Services & Consulting,Pune,49,97,4600,3.8,Medium,High,Medium,Low
+TVS Motor,Automobile,Hosur,330,66,4600,3.9,High,Medium,Medium,Low
+Persistent Systems,IT Services & Consulting,Pune,42,263,4600,3.6,Low,Medium,Low,Low
+SBI Life Insurance Company,Insurance,Mumbai,624,3,4600,3.8,High,Medium,Low,Low
+NTT Data,IT Services & Consulting,Bangalore,77,16,4600,3.8,Medium,High,Medium,Low
+Nagarro,IT Services & Consulting,Gurgaon,49,203,4600,3.9,Medium,High,Medium,Low
+State Bank of India,Banking,Mumbai,581,7,4500,3.9,High,Medium,Medium,Medium
+Nagarjuna Construction Company,Engineering & Construction,Hyderabad,275,17,4500,4.1,High,Medium,Medium,Medium
+Amdocs,Software Product,Pune,23,46,4500,3.7,Low,Medium,Low,Low
+Schneider Electric,Industrial Automation,Bangalore,118,74,4500,4.1,High,High,Medium,Low
+Home Credit Finance,NBFC,Gurgaon,132,144,4500,4.0,Medium,High,Medium,Low
+Ecom Express,Logistics,Gurgaon,733,0,4400,3.9,Low,High,Medium,Low
+JBM Group,Auto Components,Gurgaon,107,42,4400,3.9,High,Medium,Medium,Low
+OPPO,Consumer Electronics & Appliances,Greater Noida,399,10,4300,3.9,Low,Medium,Medium,Low
+Bosch,Auto Components,Bangalore,121,165,4300,4.1,Medium,High,Medium,Low
+Hewlett Packard Enterprise,IT Services & Consulting,Bangalore,100,101,4300,4.1,Medium,High,High,Low
+KEC International,Engineering & Construction,Mumbai,304,12,4300,4.0,High,Medium,Medium,Low
+Piramal Capital Housing Finance,NBFC,Mumbai,374,4,4300,4.2,Medium,Medium,Medium,Medium
+Dell,Consumer Electronics & Appliances,Bangalore,114,23,4300,3.8,Low,High,Medium,Low
+EY Global Delivery Services ( EY GDS),Accounting & Auditing,Bangalore,54,47,4300,3.5,High,Low,Low,Low
+Mahindra Logistics,Logistics,Mumbai,232,12,4200,3.8,Medium,Medium,Medium,Low
+ITC Infotech,IT Services & Consulting,Bangalore,67,105,4200,3.7,High,High,Medium,Low
+Varun Beverages,Beverage,New Delhi,352,61,4200,3.9,High,Medium,Medium,Low
+Aditya Birla Fashion and Retail,Fashion & Textile,Bangalore,275,85,4200,4.1,High,Medium,Medium,Medium
+CARS24,Internet,Gurgaon,170,44,4100,3.5,Low,Medium,Medium,Low
+Randstad,Recruitment,Hyderabad,329,5,4100,3.7,Low,Medium,Low,Low
+Deutsche Bank,Banking,Pune,43,1300,4100,3.9,High,High,Medium,Low
+Hyundai Motor India Limited,Automobile,Chennai,278,1,4100,4.2,High,Medium,Medium,Medium
+L&T Finance,NBFC,Mumbai,581,0,4100,3.9,Medium,Medium,Medium,Low
+R1 RCM,BPO,New Delhi,44,290,4100,3.8,High,Medium,Medium,Low
+Havells,Electrical Equipment,Noida,237,34,4000,3.9,Medium,High,Medium,Low
+Intas Pharmaceuticals,Pharma,Ahmedabad,141,56,4000,4.1,High,High,Medium,Medium
+Motilal Oswal Financial Services,Financial Services,Mumbai,163,52,3900,3.7,Medium,Medium,Low,Low
+Utkarsh Small Finance Bank,Banking,Varanasi,378,9,3900,3.7,Medium,Medium,Medium,Low
+Tata AIA Life Insurance,Insurance,Mumbai,407,532,3900,3.9,High,Medium,Medium,Medium
+Hetero,Pharma,Hyderabad,63,137,3900,3.8,High,Medium,Medium,Low
+Team Lease,Recruitment,Bangalore,378,0,3900,3.9,Medium,High,Medium,Low
+Bajaj Auto,Automobile,Pune,302,116,3900,3.8,Medium,Medium,Medium,Low
+Thermax Limited,Industrial Machinery,Pune,235,70,3800,4.1,High,High,Medium,Medium
+Macleods Pharmaceuticals,Pharma,Mumbai,124,19,3800,3.6,High,Medium,Low,Low
+LG Electronics,Consumer Electronics & Appliances,Pune,287,0,3800,3.9,High,Medium,Medium,Low
+Tata Communications,Telecom,Pune,99,23,3800,4.0,High,High,Medium,Low
+Aakash Educational Services,Education & Training,New Delhi,236,64,3800,3.3,Medium,Low,Medium,Low
+Oyo Rooms,Internet,Gurgaon,120,109,3800,3.1,Low,Medium,Low,Medium
+Lenskart,Internet,New Delhi,229,181,3800,3.3,Medium,Low,Medium,Low
+John Deere,Industrial Machinery,Pune,145,13,3800,4.0,Medium,High,Medium,Low
+Berger Paints,Chemicals,Kolkata,326,145,3700,3.7,Medium,Low,Medium,Low
+Royal Enfield,Automobile,Chennai,361,7,3700,4.2,Medium,High,Medium,Low
+VE Commercial Vehicles,Automobile,Indore,151,10,3700,3.9,High,Medium,Medium,Low
+Jubilant Foods Works,Hospitality,New Delhi,245,125,3700,3.7,Medium,Low,Low,Low
+Reliance Communications,Telecom,Mumbai,462,0,3700,4.0,Medium,High,Medium,Low
+HDFC Ergo General Insurance,Insurance,Mumbai,310,15,3700,3.9,High,High,Medium,Low
+DCB Bank,Banking,Mumbai,331,7,3700,3.8,Medium,High,Medium,Low
+Carelon Global Solutions,Software Product,Bangalore,19,31,3600,3.8,High,High,Medium,Low
+Jindal Steel Limited,Iron & Steel,Angul,165,36,3600,3.9,Medium,Medium,Medium,Low
+Hindalco Industries,Metals & Mining,Sambalpur,121,3,3600,4.2,High,High,Medium,Medium
+Cummins,Industrial Machinery,Pune,110,7,3600,4.3,Medium,High,Medium,Medium
+State Street Corporation,Financial Services,Bangalore,32,0,3600,3.6,Medium,Medium,Low,Low
+Bank of America,Banking,Gurgaon,34,1,3600,4.2,High,High,Medium,Low
+XpressBees,Internet,Pune,465,12,3600,4.2,Medium,High,Medium,Medium
+Publicis Sapient,IT Services & Consulting,Bangalore,44,205,3600,3.4,Low,Medium,Low,Low
+RBL Bank,Banking,Mumbai,267,81,3600,3.5,Medium,Medium,Low,Low
+American Express,Financial Services,Gurgaon,51,165,3600,4.1,Medium,High,Medium,Low
+Viatris,Pharma,Hyderabad,81,8,3500,4.1,High,High,Medium,Medium
+Subros,Auto Components,Noida,85,1,3500,3.8,High,Medium,Medium,Low
+Pidilite Industries,Chemicals,Mumbai,288,5,3500,4.2,High,High,Medium,Low
+PVR Inox,Media & Entertainment,New Delhi,150,17,3500,3.9,Medium,Medium,Medium,Low
+Automatic Data Processing (ADP),Software Product,Hyderabad,40,20,3500,3.9,High,High,Medium,Low
+Alembic Pharmaceuticals,Pharma,Vadodara,178,44,3500,3.9,Medium,High,Medium,Medium
+Maersk,Logistics,Chennai,48,55,3400,4.0,Medium,High,High,Low
+Samvardhana Motherson Group,Auto Components,Noida,91,17,3400,3.7,High,Low,Medium,Low
+Sodexo,Facility Management Services,Mumbai,153,1100,3400,4.0,Medium,High,High,Low
+Godrej & Boyce Manufacturing,Consumer Electronics & Appliances,Mumbai,156,66,3400,3.9,High,Medium,Medium,Low
+Escorts Kubota Limited,Automobile,Faridabad,145,1,3400,4.1,Medium,High,Medium,Low
+Synechron,IT Services & Consulting,Pune,32,88,3400,3.5,Low,Medium,Low,Low
+Birlasoft,IT Services & Consulting,Pune,46,5,3400,3.5,Medium,Medium,Low,Low
+Dabur,FMCG,New Delhi,305,16,3400,3.9,Medium,Medium,Medium,Low
+Abbott,Pharma,Mumbai,201,290,3400,4.1,Medium,High,Medium,Low
+Kogta Financial India Limited,NBFC,Jaipur,244,92,3400,4.7,Medium,High,Medium,Medium
+Bharat Electronics,Electronics Manufacturing,Bangalore,82,0,3400,4.2,Medium,High,High,Medium
+Cogent E Services,BPO,Noida,53,1,3400,3.2,Medium,Medium,Low,Low
+Kyndryl,IT Services & Consulting,Bangalore,34,55,3400,3.9,Medium,High,Medium,Low
+PNB MetLife,Insurance,New Delhi,397,9,3300,3.4,Low,Medium,Low,Medium
+Aditya Birla Sun Life Insurance,Insurance,Mumbai,461,0,3300,4.0,High,High,Medium,Medium
+Aarti Industries,Agro Chemicals,Bharuch,57,2,3300,4.1,High,High,Medium,Medium
+Grasim Industries,Building Material,Bharuch,221,1,3300,4.0,High,High,Medium,Low
+Indian Oil Corporation,Oil & Gas,New Delhi,296,0,3300,4.4,Medium,High,High,Medium
+Glenmark Pharmaceuticals,Pharma,Mumbai,167,50,3300,3.8,Medium,Medium,Medium,Low
+Kotak Mahindara Life Insurance,Insurance,Mumbai,242,6300,3300,3.6,Medium,Medium,Low,Low
+KPIT Technologies,Software Product,Pune,42,42,3300,3.1,Low,Medium,Medium,Low
+JK Cement,Building Material,New Delhi,307,1,3300,4.0,Medium,High,Medium,Medium
+"NTT DATA, Inc.",IT Services & Consulting,Bangalore,32,682,3300,3.9,High,High,Medium,Low
+Reliance Projects & Property Management Services,IT Services & Consulting,Kolkata,591,0,3300,4.0,High,High,Medium,Low
+Ipca Laboratories,Pharma,Mumbai,152,66,3300,3.9,High,High,Medium,Low
+Johnson Controls,Industrial Automation,Pune,54,165,3300,3.5,Low,Medium,Low,Low
+Tata Capital,NBFC,Mumbai,311,2100,3200,4.0,High,Medium,Medium,Medium
+MRF Tyres,Auto Components,Chennai,187,19,3200,3.6,Medium,Low,Low,Medium
+Ford Motor,Automobile,Chennai,128,1,3200,4.2,Medium,High,Medium,Medium
+Alkem Laboratories,Pharma,Mumbai,187,26,3200,3.9,Medium,Medium,Medium,Low
+UBS,Financial Services,Pune,20,0,3200,3.9,Medium,High,Medium,Low
+IGT Solutions,IT Services & Consulting,New Delhi,49,73,3200,3.3,Medium,Medium,Medium,Low
+24/7 Customer,Software Product,Bangalore,36,51,3200,3.5,Medium,Medium,Low,Low
+Vishal Mega Mart,Retail,New Delhi,358,1,3200,3.7,Medium,Low,Low,Medium
+Honda Motorcycle & Scooter,Automobile,Gurgaon,280,0,3200,4.1,High,High,Medium,Low
+Reliance Digital,Retail,Mumbai,359,0,3100,4.1,High,Medium,Medium,Medium
+Marpu Foundation,Non-Profit,Hyderabad,59,0,3100,4.8,Medium,High,High,Medium
+Hindustan Coca Cola Beverages,Beverage,Bangalore,250,53,3100,4.0,High,Medium,Medium,Low
+HARMAN,Consumer Electronics & Appliances,Bangalore,39,248,3100,3.8,Medium,High,Medium,Low
+Reliance Nippon Life Insurance,Insurance,Mumbai,471,12,3100,3.4,Low,Medium,Low,Medium
+Indian Air Force,Defence & Aerospace,New Delhi,131,0,3100,4.6,High,Medium,Medium,Medium
+Ceat Tyres,Auto Components,Nagpur,134,7,3100,3.9,High,Medium,Medium,Low
+NatWest Group,Banking,Gurgaon,25,0,3100,4.0,High,High,Medium,Low
+ABB,Industrial Machinery,Bangalore,104,376,3100,4.1,High,High,Medium,Low
+DTDC Express,Logistics,New Delhi,257,16,3100,3.7,Medium,Medium,Medium,Low
+ArcelorMittal Nippon Steel,Iron & Steel,Surat,81,4,3100,4.1,High,High,Medium,Medium
+Future Group,Retail,Mumbai,206,0,3000,4.3,Medium,High,Medium,Medium
+InterGlobe Aviation,Aviation,New Delhi,100,39,3000,3.5,Medium,Low,Medium,Low
+Conduent,BPO,Bangalore,35,212,3000,3.4,Medium,Medium,Medium,Low
+RSPL Group,FMCG,Kanpur,238,31,3000,4.0,High,High,Medium,Low
+Barclays,Banking,Pune,37,0,3000,3.8,Medium,Medium,Low,Low
+Tata Technologies,Engineering & Construction,Pune,53,114,3000,3.5,Medium,Medium,Low,Low
+GeBBS Healthcare Solutions,Healthcare,Mumbai,25,72,3000,3.7,High,Medium,Low,Low
+UNO Minda,Auto Components,Pune,100,7,3000,3.9,High,Medium,Medium,Low
+Alstom Transportation,Engineering & Construction,Bangalore,75,286,3000,3.7,High,Medium,Low,Low
+AGS Health,IT Services & Consulting,Chennai,59,34,3000,4.0,High,High,Medium,Medium
+Tata AIG,Insurance,Mumbai,253,126,2900,4.1,High,High,Medium,Low
+Max Healthcare,Healthcare,New Delhi,75,132,2900,3.9,High,Medium,Medium,Low
+PhonePe,FinTech,Bangalore,341,19,2900,4.0,Medium,High,Medium,Medium
+Cloudnine Hospital,Healthcare,Bangalore,42,0,2900,4.5,Medium,High,Medium,Medium
+Amazon Transportation Services,Other,Hyderabad,219,0,2900,4.1,Medium,Medium,Medium,Medium
+UPL,Agro Chemicals,Ankleshwar,181,51,2900,4.1,High,High,Medium,Medium
+Walmart,Retail,Bangalore,91,164,2900,3.5,Low,Medium,Low,Low
+S&P Global,Analytics & KPO,Hyderabad,46,473,2900,4.0,Medium,High,Medium,Low
+PepsiCo,Food Processing,Hyderabad,263,308,2900,4.0,High,High,Medium,Low
+Dilip Buildcon,Engineering & Construction,Bhopal,218,21,2900,3.9,Low,Medium,Medium,Low
+TVS Credit Services Ltd,NBFC,Chennai,402,39,2900,4.2,Medium,High,Medium,Medium
+Varroc Group,Auto Components,Pune,60,12,2900,3.6,Low,Medium,Medium,Low
+Titan Company,Retail,Bangalore,176,117,2900,4.2,High,High,Medium,Medium
+Croma,Retail,Mumbai,180,20,2900,3.9,High,High,Medium,Low
+Bajaj Allianz General Insurance,Insurance,Pune,266,253,2900,3.7,Medium,Low,Low,Low
+Square Yards,Internet,Gurgaon,50,41,2800,3.6,Low,Medium,Medium,Medium
+CMS IT Services,IT Services & Consulting,Mumbai,152,55,2800,3.1,Medium,Medium,Medium,Low
+Mankind Pharma,Pharma,New Delhi,230,14,2800,3.8,Medium,Medium,Medium,Low
+Societe Generale Global Solution Centre,IT Services & Consulting,Bangalore,25,87,2800,3.7,High,High,Low,Low
+Zensar Technologies,IT Services & Consulting,Pune,30,332,2800,3.7,Low,High,Medium,Low
+Afcons Infrastructure,Engineering & Construction,Mumbai,114,34,2800,4.2,High,Medium,Medium,Medium
+ACC,Building Material,Mumbai,258,16,2800,3.9,Medium,Medium,Medium,Low
+Torrent Pharmaceuticals,Pharma,Ahmedabad,121,29,2800,3.9,High,High,Medium,Low
+MSN Laboratories,Pharma,Hyderabad,97,36,2800,3.6,High,Low,Low,Medium
+UnitedHealth,Healthcare,Hyderabad,18,0,2700,4.0,High,High,Medium,Low
+Blinkit,Internet,Gurgaon,121,0,2700,3.8,Low,Medium,Low,Low
+Quest Global,IT Services & Consulting,Bangalore,46,181,2700,3.5,Medium,Medium,Low,Low
+HDFC Sales,Financial Services,Mumbai,326,39,2700,3.9,Medium,High,Medium,Low
+I Process Services,Other,Mumbai,384,0,2700,3.8,Medium,High,Medium,Low
+Nokia,Telecom,Bangalore,165,157,2700,4.0,Medium,High,High,Low
+Shoppers Stop,Retail,Mumbai,81,8,2700,4.0,High,High,Medium,Low
+Jindal Stainless,Iron & Steel,Jajpur,75,19,2700,4.2,High,High,Medium,Medium
+Fujitsu,IT Services & Consulting,Pune,40,63,2700,3.8,Medium,High,Medium,Low
+Whitehat jr,EdTech,Mumbai,49,0,2700,3.4,Low,Medium,Medium,Low
+Fiserv,FinTech,Pune,33,80,2700,2.8,Medium,Medium,Low,Low
+Apollo Tyres,Auto Components,Chennai,174,0,2700,4.0,Medium,High,Medium,Low
+Suzlon Group,Power,Pune,130,31,2600,4.0,High,High,Medium,Low
+IDFC FIRST Bharat,Financial Services,Chennai,377,0,2600,4.3,Medium,High,Medium,Medium
+Eternal Limited,Internet,Gurgaon,214,6,2600,3.6,Low,Low,Medium,Low
+DS Group,FMCG,Noida,269,48,2600,4.0,High,High,Medium,Low
+Shree Cement,Building Material,Beawar,250,0,2600,3.8,Low,Medium,Medium,Low
+Tata Elxsi,IT Services & Consulting,Bangalore,30,48,2600,3.6,High,Medium,Low,Low
+Yazaki,Auto Components,Pune,88,4,2600,3.9,High,Medium,Medium,Low
+IKS Health,Analytics & KPO,Mumbai,28,10,2600,3.5,Medium,Medium,Low,Low
+Indus Towers,Hardware & Networking,Gurgaon,216,25,2600,3.6,Medium,Low,Low,Low
+Capita,IT Services & Consulting,Pune,32,47,2600,3.5,Medium,Medium,Medium,Low
+Flex,Electronics Manufacturing,Chennai,46,51,2600,3.9,Medium,High,Medium,Low
+VVDN Technologies,IT Services & Consulting,Gurgaon,44,7,2600,3.6,Medium,Medium,Medium,Low
+Landmark Group,Retail,Bangalore,163,15,2600,3.9,High,Medium,Medium,Low
+Blue Dart Express Ltd,Logistics,Mumbai,266,6,2500,3.9,High,Medium,Medium,Low
+ElasticRun,Logistics,Pune,379,8,2500,3.6,Low,Medium,Low,Low
+Shell,Oil & Gas,Bangalore,89,33,2500,3.9,Low,High,Medium,Low
+Sahrudaya Healthcare (Medicover Hospitals),Healthcare,Hyderabad,44,31,2500,4.5,Medium,High,High,Medium
+Nestle,FMCG,Gurgaon,267,24,2500,3.8,High,Low,Medium,Low
+Exide Industries,Auto Components,Kolkata,197,72,2500,3.4,Medium,Medium,Low,Low
+KPMG Global Services,Management Consulting,Bangalore,37,0,2500,3.5,Medium,Medium,Low,Low
+Britannia,FMCG,Bangalore,278,0,2500,4.0,High,Medium,Medium,Low
+ESAF Small Finance Bank,Banking,Thrissur,405,33,2500,3.6,Medium,Medium,Low,Low
+SRF,Chemicals,Bharuch,68,16,2500,4.1,High,High,Medium,Low
+TVS Supply Chain Solutions,Logistics,Chennai,148,15,2500,3.8,Medium,Medium,Medium,Low
+G4S,Law Enforcement & Security,Gurgaon,153,309,2500,4.0,High,High,Medium,Low
+Dalmia Bharat Cement,Building Material,Guwahati,241,1,2500,3.9,High,Medium,Medium,Low
+GATI-KWE,Logistics,Hyderabad,161,5,2500,3.9,High,High,Medium,Low
+Micro Labs,Pharma,Bangalore,143,12,2500,3.6,Medium,Medium,Medium,Low
+Ola Electric Mobility,Automobile,Bangalore,370,0,2400,3.3,Low,Low,Medium,Medium
+KFintech,FinTech,Hyderabad,109,10,2400,3.4,Medium,Medium,Medium,Low
+BlackBuck,Internet,Bangalore,356,9,2400,3.7,Low,Medium,Medium,Low
+Kansai Nerolac Paints,Chemicals,Mumbai,235,85,2400,3.8,Medium,Medium,Low,Low
+ZS,Management Consulting,Pune,17,104,2400,3.2,Medium,Low,Low,Low
+Domino's Pizza,Other,New Delhi,239,0,2400,3.9,Medium,Medium,Medium,Medium
+Statestreet HCL Services,BPO,Chennai,18,0,2400,3.4,Medium,Medium,Medium,Low
+Bajaj Electricals,Consumer Electronics & Appliances,Mumbai,225,5,2400,3.9,Medium,High,Medium,Low
+Voltas,Consumer Electronics & Appliances,Mumbai,194,20,2400,4.0,High,High,Medium,Low
+Sammaan Capital Limited,NBFC,Gurgaon,199,8,2400,3.8,Medium,High,Medium,Low
+Sterlite Technologies,Hardware & Networking,Aurangabad,97,102,2400,3.8,Low,Medium,Medium,Low
+Sonalika Tractors,Automobile,Hoshiarpur,184,0,2400,3.6,Medium,Low,Medium,Low
+Sagility,BPO,Bangalore,26,48,2400,3.9,High,High,Medium,Low
+Paras Hospital,Healthcare,Patna,61,37,2400,4.2,Medium,High,Medium,Medium
+Alldigi Tech,BPO,Chennai,36,17,2400,4.0,High,High,Medium,Medium
+Bharat Financial Inclusion,NBFC,Hyderabad,451,2,2400,3.9,High,Medium,Medium,Medium
+ACT Fibernet,Hardware & Networking,Hyderabad,55,15,2400,3.9,High,Medium,Medium,Low
+Fortis Healthcare,Healthcare,New Delhi,67,87,2400,4.0,High,Medium,Medium,Low
+NoBroker,Real Estate,Bangalore,48,253,2400,3.1,Medium,Low,Low,Low
+Movate,IT Services & Consulting,Chennai,37,77,2300,3.2,Medium,Medium,Medium,Low
+suzuki motor gujarat,Automobile,Ahmedabad,114,20,2300,4.2,High,Medium,Medium,Medium
+Ajanta Pharma,Pharma,Mumbai,116,22,2300,3.9,High,Medium,Medium,Low
+Blue Star,Consumer Electronics & Appliances,Mumbai,143,143,2300,4.1,Medium,Medium,Medium,Medium
+Care Health Insurance,Internet,Gurgaon,233,20,2300,3.5,Medium,Medium,Low,Low
+Tractors and Farm Equipment,Industrial Machinery,Chennai,183,19,2300,3.9,Medium,High,Medium,Low
+Star Health & Allied Insurance,Insurance,Chennai,309,30,2300,3.5,Medium,Medium,Low,Low
+Patanjali Ayurved,FMCG,Haridwar,296,0,2300,3.9,Medium,High,Medium,Low
+McDonald's,Hospitality,New Delhi,146,1,2300,3.9,High,Medium,Medium,Medium
+BT Group,Telecom,Gurgaon,23,12,2300,3.8,High,High,Medium,Low
+Foundever,BPO,Hyderabad,24,80,2300,3.5,Medium,Medium,Low,Low
+DBS Bank,Banking,Hyderabad,168,250,2300,3.8,Medium,Medium,Low,Low
+Himalaya Wellness,Other,Bangalore,226,15,2300,4.1,High,High,Medium,Low
+V-Mart,Retail,Gurgaon,277,12,2300,4.1,High,High,Medium,Medium
+Capgemini Engineering,IT Services & Consulting,Bangalore,28,98,2300,3.4,Medium,Medium,Low,Low
+Axis Direct,Financial Services,Mumbai,267,49,2300,3.6,Medium,Medium,Low,Low
+Gallagher,Insurance,Bangalore,28,133,2300,3.7,High,High,Medium,Low
+KocharTech,IT Services & Consulting,Kolkata,27,44,2300,3.8,High,Medium,Medium,Low
+Adani Power,Power,Mundra,120,0,2300,3.8,Low,High,Medium,Low
+JCB,Other,Pune,109,0,2300,3.9,Medium,Medium,Medium,Medium
+Planet Spark,EdTech,Gurgaon,62,70,2300,3.9,Medium,High,Medium,Medium
+Parle Agro,Beverage,Mumbai,240,2,2300,3.9,High,High,Medium,Low
+IntouchCX,BPO,Hyderabad,22,159,2300,2.7,Low,Medium,Low,Low
+ICICI Securities,Financial Services,Mumbai,144,41,2200,3.9,High,High,Medium,Medium
+Datamatics Global Services,IT Services & Consulting,Mumbai,35,50,2200,3.4,Medium,Medium,Medium,Low
+Taj Hotels Resorts and Palaces,Hospitality,Mumbai,105,54,2200,4.2,High,Medium,Medium,Medium
+Intellect Design Arena,Software Product,Chennai,40,66,2200,3.7,High,Medium,Medium,Low
+Exl India,Logistics,New Delhi,42,0,2200,3.5,High,Medium,Low,Low
+Info Edge,Internet,Noida,70,477,2200,3.9,High,High,Medium,Low
+Mahindra Rural Housing Finance,NBFC,Mumbai,448,24,2200,4.0,Medium,High,Medium,Low
+Biocon Limited,Biotechnology,Bangalore,65,15,2200,4.0,High,High,Medium,Low
+Cybage,IT Services & Consulting,Pune,15,38,2200,3.7,High,High,Low,Low
+Canara HSBC Life Insurance,Insurance,Gurgaon,301,16,2200,3.6,Low,Medium,Low,Medium
+Cholamandalam MS General Insurance,Insurance,Chennai,373,0,2200,3.7,Medium,Medium,Low,Low
+Aditya Birla Group,Metals & Mining,Mumbai,252,2,2200,4.1,High,High,Medium,Medium
+Emcure Pharmaceuticals,Pharma,Pune,113,38,2200,3.7,Low,Medium,Medium,Low
+3i Infotech,IT Services & Consulting,Mumbai,120,28,2200,3.4,Medium,Medium,Medium,Low
+Lifestyle,Retail,Bangalore,129,11,2200,4.3,High,High,Medium,Medium
+Delhi Public School,Education & Training,New Delhi,266,167,2200,3.9,Medium,Medium,Medium,Medium
+Mahindra Holidays & Resorts,Hospitality,Mumbai,109,60,2200,3.5,Medium,Low,Low,Low
+Akums Drugs & Pharmaceuticals Limited,Pharma,Haridwar,36,17,2200,4.3,High,Medium,Medium,Medium
+Tata Advanced Systems,Defence & Aerospace,Bangalore,49,4,2200,3.7,High,Medium,Medium,Low
+Niva Bupa Health Insurance Company,Insurance,New Delhi,249,32,2200,3.5,Medium,Medium,Low,Low
+Photon Interactive,IT Services & Consulting,Chennai,15,1300,2200,4.1,Medium,Medium,High,Medium
+Syngene International,Clinical Research,Bangalore,21,76,2200,3.9,High,High,Medium,Low
+Xoriant,IT Services & Consulting,Pune,24,62,2200,4.1,Medium,High,Medium,Medium
+Hero FinCorp,NBFC,New Delhi,374,32,2100,4.0,Medium,High,Medium,Low
+Unacademy,EdTech,Bangalore,70,22,2100,2.9,Low,Low,Medium,Low
+Bureau Veritas,Analytics & KPO,Mumbai,135,15,2100,3.8,Medium,High,Medium,Low
+Eureka Forbes,Consumer Electronics & Appliances,Mumbai,179,18,2100,3.6,Low,Medium,Medium,Low
+Laurus Labs,Pharma,Visakhapatnam,31,2,2100,4.3,High,Medium,Medium,Medium
+Cadila Pharmaceuticals,Pharma,Ahmedabad,129,83,2100,3.4,Low,Medium,Medium,Low
+Physicswallah,EdTech,Noida,113,53,2100,3.6,Low,Medium,Medium,Low
+Lava International,Consumer Electronics & Appliances,Noida,220,2,2100,4.0,Medium,High,Medium,Low
+Aditya Birla Capital,Financial Services,Mumbai,267,1,2100,3.8,Medium,High,Medium,Low
+Huawei Technologies,Telecom,Bangalore,106,4,2100,4.0,Low,Medium,Medium,Medium
+Straive,IT Services & Consulting,Chennai,29,64,2100,3.3,Medium,Medium,Medium,Low
+Adani Group,Power,Ahmedabad,173,69,2100,3.8,High,Medium,Medium,Low
+Sopra Steria,IT Services & Consulting,Noida,19,206,2100,3.8,High,High,Medium,Low
+Zepto,Internet,Bangalore,88,21,2100,3.6,Low,Low,Medium,Medium
+Myntra,Internet,Bangalore,102,30,2100,3.9,Medium,Medium,Medium,Low
+Sobha,Real Estate,Bangalore,39,43,2100,3.8,High,Low,Low,Low
+Radisson Hotels,Hospitality,New Delhi,120,228,2100,4.0,High,Medium,Medium,Medium
+Kia India,Automobile,Anantapur,176,94,2100,4.0,High,Medium,Medium,Medium
+Nokia Networks,Hardware & Networking,Chennai,87,118,2100,4.2,Medium,High,High,Low
+Aavas Financiers,Financial Services,Jaipur,277,52,2100,3.9,Medium,Medium,Medium,Low
+GlaxoSmithKline Pharmaceuticals,Pharma,Bangalore,206,37,2100,4.1,Medium,High,Medium,Low
+Ola Cabs,Internet,Bangalore,105,12,2000,3.3,Low,Medium,Medium,Low
+Renault Nissan Technology & Business Centre India,Automobile,Chennai,18,65,2000,3.8,High,High,Medium,Low
+Simplex Infrastructures,Engineering & Construction,Kolkata,138,0,2000,3.4,Medium,Medium,Medium,Low
+Team Computers,IT Services & Consulting,New Delhi,101,181,2000,3.7,Medium,Medium,Medium,Low
+RMSI,IT Services & Consulting,Hyderabad,23,28,2000,3.6,Medium,Medium,Medium,Low
+Cisco,Hardware & Networking,Bangalore,44,163,2000,4.1,Medium,High,Medium,Low
+Whirlpool,Consumer Electronics & Appliances,Pune,160,10,2000,3.9,Medium,High,Medium,Low
+Endurance Technologies,Auto Components,Aurangabad,46,16,2000,3.9,High,Medium,Medium,Low
+Apollo Pharmacy,Pharma,Hyderabad,262,32,2000,3.7,High,Medium,Low,Low
+GVK Emergency Management and Research Institute,Non-Profit,Lucknow,199,13,2000,3.6,Low,Medium,Medium,Low
+Indian Railways,Railways,Kolkata,233,0,2000,4.2,High,High,Medium,Medium
+Panasonic Life Solutions India,Consumer Electronics & Appliances,Haridwar,155,18,2000,4.0,High,High,Medium,Low
+Lodha Group,Real Estate,Mumbai,25,172,2000,4.0,High,High,Medium,Medium
+Henry Harvin Education,Other,Noida,31,41,2000,3.7,Medium,Medium,Low,Low
+ValueLabs,IT Services & Consulting,Hyderabad,19,85,2000,3.6,Low,Medium,Medium,Low
+Ambuja Cements,Building Material,Mumbai,240,1,2000,3.8,High,Medium,Medium,Low
+Foxconn,Electronics Manufacturing,Chennai,55,12,2000,3.8,Medium,Medium,Medium,Low
+SBI Securities,Financial Services,Mumbai,298,91,2000,3.7,High,High,Medium,Low
+TCE,Engineering & Construction,Mumbai,131,81,2000,3.8,Low,Medium,Low,Low
+TaskUs,BPO,Indore,34,345,2000,3.1,High,High,Medium,Low
+Shahi Exports,Fashion & Textile,Bangalore,67,33,2000,4.0,High,Medium,Low,Low
+Bank of Baroda,Banking,Mumbai,287,0,2000,3.5,High,High,Medium,Medium
+Adani Wilmar,FMCG,Ahmedabad,187,97,2000,4.1,High,Medium,Medium,Low
+State Street Syntel,Financial Services,Pune,22,0,2000,3.7,Medium,High,Medium,Medium
+Star Union Dai-ichi Life Insurance,Insurance,Mumbai,296,38,2000,3.9,Low,Medium,Low,Low
+Bharti AXA Life Insurance,Insurance,Mumbai,237,82,2000,3.6,Low,Medium,Low,Low
+Extramarks Education,EdTech,Noida,108,14,2000,3.5,Medium,High,Medium,Medium
+Life Insurance Corporation of India,Insurance,New Delhi,459,0,2000,4.4,Low,Medium,Medium,Low
+Meesho,Internet,Bangalore,121,153,2000,3.7,Low,High,Medium,Low
+Microsoft Corporation,Software Product,Bangalore,46,0,2000,3.8,High,High,Medium,Medium
+BHEL,Electrical Equipment,Bangalore,121,0,2000,4.1,Medium,Medium,Medium,Low
+Sify Technologies,IT Services & Consulting,Chennai,125,29,2000,3.7,Medium,High,Medium,Low
+Allstate,Insurance,Pune,16,24,2000,3.7,Medium,Medium,Medium,Medium
+upGrad,EdTech,Bangalore,49,38,2000,3.5,Low,Medium,Low,Low
+Force Motors,Automobile,Pune,100,2,2000,3.6,Medium,Medium,Low,Low
+Coromandel International,Agro Chemicals,Visakhapatnam,172,14,2000,4.1,High,High,Medium,Low
+Pfizer,Pharma,Visakhapatnam,125,39,2000,3.9,Low,High,Medium,Low
+SBI General Insurance,Insurance,Mumbai,268,30,2000,3.6,Medium,Medium,Low,Low
+Ninjacart,Internet,Bangalore,109,13,2000,3.8,Low,Medium,Medium,Low
+CAMS,Financial Services,Chennai,106,30,1900,3.6,High,Medium,Medium,Low
+Raymond Lifestyle Limited,Fashion & Textile,Mumbai,138,1,1900,4.1,High,High,Medium,Low
+Cargill,Food Processing,Bangalore,111,287,1900,3.9,Medium,High,Medium,Low
+Renault-Nissan,Other,Chennai,85,0,1900,4.2,High,High,Medium,Low
+Daikin Airconditioning India Pvt. Ltd.,Consumer Electronics & Appliances,Neemrana,104,9,1900,4.1,High,High,Medium,Low
+Tata Electronics,Semiconductors,Hosur,37,32,1900,4.0,High,High,Medium,Low
+Reliance Trends,Retail,Bangalore,375,0,1900,4.1,High,Medium,Medium,Medium
+BNP Paribas,Financial Services,Mumbai,26,219,1900,3.7,High,High,Low,Low
+Spark Minda,Auto Components,Pune,69,12,1900,3.9,Medium,Medium,Medium,Low
+Future Generali India Life Insurance,Insurance,Mumbai,189,22,1900,3.5,Low,Medium,Low,Low
+Bharat Petroleum,Oil & Gas,Mumbai,248,0,1900,4.1,Medium,High,Medium,Low
+Mercedes-Benz Research and Development India,IT Services & Consulting,Bangalore,48,95,1900,3.7,High,High,Low,Low
+Delphi TVS,Auto Components,Chennai,54,1,1900,3.9,High,Medium,High,Low
+HSBC Electronic Data Processing,Banking,Bangalore,20,1,1900,4.1,High,High,Medium,Low
+Brakes India,Auto Components,Chennai,91,7,1900,3.8,High,Medium,Medium,Low
+Power Mech Projects,Engineering & Construction,Hyderabad,143,3,1900,3.8,High,Medium,Medium,Low
+Poonawalla Fincorp,NBFC,Pune,259,52,1900,3.6,Medium,Medium,Low,Low
+Kotak Securities,Financial Services,Mumbai,137,19,1900,3.6,Medium,Medium,Low,Low
+FirstCry,Internet,Pune,196,8,1900,3.6,Medium,Medium,Low,Low
+SAP,Software Product,Bangalore,54,143,1900,4.2,High,High,Medium,Medium
+Saint-Gobain,Engineering & Construction,Mumbai,98,65,1900,3.9,High,High,Medium,Low
+CitiusTech,IT Services & Consulting,Mumbai,17,131,1900,3.2,Low,Medium,Low,Low
+ITC Hotels,Hospitality,New Delhi,92,0,1900,4.1,High,Medium,Medium,Low
+YASH Technologies,IT Services & Consulting,Hyderabad,29,789,1900,3.7,Medium,High,Medium,Low
+Morgan Stanley,Financial Services,Mumbai,19,5,1800,3.6,Low,Medium,Low,Low
+Reliance General Insurance,Insurance,Mumbai,189,2,1800,3.6,Medium,Medium,Low,Low
+Novartis,Pharma,Hyderabad,76,287,1800,4.1,Medium,High,Medium,Low
+Nuvoco Vistas,Building Material,Kolkata,180,5,1800,4.1,High,High,Medium,Medium
+SGS,Clinical Research,Mumbai,137,108,1800,3.8,Medium,High,Medium,Low
+GAO Tek,Electrical Equipment,New York,39,0,1800,4.4,Medium,High,Medium,Medium
+JK Tyres,Auto Components,Chennai,136,1,1800,3.6,Medium,Low,Medium,Low
+Tata Motors Finance,NBFC,Mumbai,246,2,1800,4.1,Medium,High,High,Low
+Infinite Computer Solutions,IT Services & Consulting,Bangalore,36,240,1800,3.3,Low,Medium,Medium,Low
+Google,Software Product,Bangalore,85,529,1800,4.4,Medium,High,High,Medium
+L&T Energy Hydrocarbon,Engineering & Construction,Vadodara,88,0,1800,3.8,High,Low,Medium,Low
+Jio Platforms,IT Services & Consulting,Mumbai,93,0,1800,3.4,High,Medium,Medium,Low
+Senco Gold,Jewellery,Kolkata,75,6,1800,4.4,High,Medium,Medium,Medium
+AECOM,Engineering & Construction,Gurgaon,119,331,1800,4.2,Medium,High,High,Low
+Biological E,Pharma,Hyderabad,63,36,1800,4.2,High,High,Medium,Medium
+IDBI Bank,Banking,Mumbai,314,0,1800,3.5,High,Medium,Low,Low
+Parle Products,FMCG,Mumbai,228,4,1800,3.9,Medium,Medium,Medium,Low
+EPAM Systems,IT Services & Consulting,Hyderabad,33,142,1800,3.7,Low,High,Low,Low
+Crisil,Analytics & KPO,Mumbai,72,673,1800,3.5,Medium,Medium,Low,Low
+Newgen Software Technologies,IT Services & Consulting,Noida,30,7,1800,3.8,High,Medium,Medium,Medium
+Honeywell Automation,Industrial Automation,Pune,78,0,1800,3.7,High,Medium,Medium,Low
+Paisabazaar.com,Internet,Gurgaon,35,56,1800,3.4,Low,Medium,Low,Low
+Philips,Consumer Electronics & Appliances,Bangalore,92,105,1800,3.8,Low,High,Medium,Low
+Gabriel India Limited,Auto Components,Pune,47,0,1800,4.1,High,Medium,Medium,Medium
+NCR Corporation,IT Services & Consulting,Hyderabad,88,64,1800,3.6,Medium,Medium,Low,Low
+Stellar Migration,Other,Dubai,8,0,1800,1.3,Medium,Low,Low,Medium
+R.R. Donnelley,Marketing & Advertising,Chennai,26,22,1800,3.7,High,Medium,Medium,Low
+Microland,IT Services & Consulting,Bangalore,45,520,1800,3.4,Medium,Medium,Low,Low
+Uflex,Packaging,Noida,46,77,1800,3.8,High,Medium,Medium,Low
+Narayana Health,Healthcare,Bangalore,64,92,1800,3.9,High,High,Medium,Low
